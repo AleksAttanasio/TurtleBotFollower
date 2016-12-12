@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: track
+Description: Description of track
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

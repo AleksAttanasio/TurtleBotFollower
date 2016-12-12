@@ -1,0 +1,6 @@
+<launch>
+	<node name = "master" pkg="track" type="master" output="screen">
+		
+	</node>
+
+</launch>
